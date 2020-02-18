@@ -88,3 +88,10 @@ I started going to PT twice a week, then moved to once a week. And speech therap
 # December 2019: ENT
 
 At long last, I went to see the ENT. Again, visually the tongie-tie is obvious. But we discussed my history and the procedure and speech therapy and the whole picture of what was going on. That week I scheduled surgery for 1/22/2020.
+
+* [Home](/readme.md)
+* *Background*
+* [Week 1](/week-1.md)
+* [Week 2](/week-2.md)
+* [Week 3](/week-3.md)
+* [Week 4](/week-4.md)

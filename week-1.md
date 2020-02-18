@@ -11,7 +11,7 @@ title: Week 1
 
 # Wednesday 1/22 — Day of surgery 
 
-My ENT gave me a topical and local anesthetics, and he used laser and dissolvable sutures. The first thing he said after he completed the procedure is that my tongue and jaw now work independently. Before, whenever I would move my tongue, my jaw would also tense and move up.
+My ENT gave me topical and local anesthetics, and he used laser and dissolvable sutures. The first thing he said after he completed the procedure is that my tongue and jaw now work independently. Before, whenever I would move my tongue, my jaw would also tense and move up.
 
 ## Leaving the appointment
 
@@ -95,7 +95,7 @@ The major thing I discovered is that my right foot no longer feels bound. This i
       * Right foot forward: Feel more stable.
    * Triangle:
       * Much deeper. Can go lower on block. Didn’t use block with right hand on floor.
-* Ibuprofen ~3 pm, heating pad a little before 4.
+* Ibuprofen ~3 p.m., heating pad a little before 4.
 * **Swallowing is easier.** It’s almost all small effort at the bae of my throat. It’s no longer a laborious movement of my tongue trying to move food backward. It’s like my throat is already open, I don’t have to work so hard with my tongue.
 * Started rubbing muscle in front of jaw/ear, and it feels like a big knot. Applying heat and rubbing more.
 * **Dowager’s hump seems to have diminished.**
