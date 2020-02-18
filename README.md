@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+This is an account of my experience following tongue-tie surgery. Most of the information I've come across regarding tongue-tie is about infants and children, so I'm putting this out here for adults that may find this information helpful.
 
-You can use the [editor on GitHub](https://github.com/tongue-tie/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is also a common place for my ENT, speech therapist, physical therapist, and massage therapist to see my notes. Lots of therapists. I've been on a very long road that I had no idea would lead me to tongue-tie surgery.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There's a single (very long) post about my background, and then a post for each day I took notes post-surgery.
 
-### Markdown
+# You had what?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I had a tongue-tie, and now I don't have a tongue-tie. I paid a nice man to remove it for me.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tongue-tie/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Basically, the [lingual frenulum](https://en.wikipedia.org/wiki/Frenulum_of_tongue) is a bit of tissue that connects your tongue to the floor of your mouth. A short and/or restrictive lingual frenulum is called [ankyloglossia](https://en.wikipedia.org/wiki/Ankyloglossia), also known as _tongue-tie_. The surgery I had was a [lingual frenectomy](https://en.wikipedia.org/wiki/Frenectomy).
