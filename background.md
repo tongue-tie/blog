@@ -15,7 +15,7 @@ But I was not aware how tongue-tie affected my entire body. I have been told by 
 
 # Baby
 
-I was born with hip dysplasia (that means my femur wouldn't stay in the hip socket) on my right side, and with my right leg turned in and right foot turned under. (There's a pretty great photo of me learning to walk, taking steps with the _top_ of my right foot under me.) I had braces on my legs, and it resolved itself.
+I was born with [hip dysplasia](https://en.wikipedia.org/wiki/Hip_dysplasia) and with my right leg turned in and right foot turned under. There's a pretty great photo of me learning to walk, taking steps with the _top_ of my right foot under me. I had braces as treatment, and the turned-in and -under leg and foot resolved on their own.
 
 # Kid
 
@@ -23,7 +23,7 @@ My parents put me in dance classes when I was little, as they were told that tha
 
 I also limped. One of my strongest memories of childhood is hearing "Stop dragging your leg!" Because of that, I tried to hide the limp. I'd kind of tense up my right foot and bounce off it in order to smooth my gait overall. I'm sure that caused its own layer of problems.
 
-I remember it being somewhat of a party trick that when standing up "straight," I could swing my right foot forward and back without it touching the ground. I didn't know at the time that it was becuase my hips were rotated and tilted.
+I remember it being somewhat of a party trick that when standing up "straight," I could swing my right foot forward and back without it touching the ground. I didn't know at the time that it was becuase my hips were rotated and tilted.  I know there's a a lot of variation within what's "normal" for the human body, but I also saw how _many_ things were so different for me. For example, my left rib cage also sticks out further like it's  rotated forward, and I figured all these things were connected.
 
 # Teenager
 
@@ -49,11 +49,13 @@ In my twenties I tried various drugs, food elimination diets trying to find a tr
 
 # Adult
 
+In my mid-20s, a massage therapist thought I had scoliosis when she first examined me. Once I lied down she saw it went away. I soon learned the term "functional scoliosis."
+
 Braces! I had braces from 24-26. Before they'd put the braces on, I was advised to center my jaw as much as possible. Basically my jaw deviated to the side when I opened it. For a year before I got braces, I was in an occlusal splint and did exercises to help relax my neck and jaw and get it more centered. I knew I also spoke more out of one side of my mouth, so this wasn't a surprise, and it was just another on my list of asymmetries.
 
 I woke up every day with tension in my jaw, neck, shoulders and arms. I clenched my jaw. I would say things like "I have a hard time relaxing." I was always physically tense. At one point I figured that it must be a physical manifestation of anxiety, and I tried to figure out how to go at the tension from that angle.
 
-I cannot tell you how many doctors, therapists, trainers, people of all kinds that I've gone to for assessments and assistance over the years. 
+I cannot tell you how many doctors, therapists, etc. that I've gone to for assessments and assistance over the years. I've also come across ["moulded baby syndrome"](https://www.ncbi.nlm.nih.gov/pubmed/18795328) (link is for description only — I have not vetted and am not self-diagnosing), MTHFR gene mutations, midline defects, and on and on and on. Some things have been relevant, other things I've tossed into the "it doesn't matter anymore, just deal with today" bucket, and some things are quackery. It's a lot to sort, and there are a lot of opinions, and my preference is to deal with science and reality and what I can do something about now.
 
 # August 2019: The big event and diagnosis
 
