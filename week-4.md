@@ -10,7 +10,7 @@ I saw my massage therapist today. The last time I saw her was the 4th day after 
 
 * Squeezed my right foot downward in a stretch, with arch clenched, and I felt a pop at the arch. This is new. So much sensation and flexibility in the foot and ankle.
 
-* [Home](/)
+* [Home](/blog)
 * [Background](/background.md)
 * [Week 1](/week-1.md)
 * [Week 2](/week-2.md)

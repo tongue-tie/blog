@@ -2,7 +2,7 @@
 title: Week 2
 ---
 
-* [Home](/)
+* [Home](/blog)
 * [Background](/background.md)
 * [Week 1](/week-1.md)
 * *Week 2*
@@ -137,7 +137,7 @@ title: Week 2
 * Right side of my neck under jaw feels sore and tight. 
 * Right shoulder blade feels open instead of constricted.
 
-* [Home](/)
+* [Home](/blog)
 * [Background](/background.md)
 * [Week 1](/week-1.md)
 * *Week 2*

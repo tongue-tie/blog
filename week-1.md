@@ -2,7 +2,7 @@
 title: Week 1
 ---
 
-* [Home](/)
+* [Home](/blog)
 * [Background](/background.md)
 * *Week 1*
 * [Week 2](/week-2.md)
@@ -222,7 +222,7 @@ The major thing I discovered is that my right foot no longer feels bound. This i
 * Walking feels crooked. Left hip rotated and hiked, along with left side in general being flared up. The walking may seem more apparent due to wearing Vans. I’m usually barefoot or in barefoot style shoes. Not sure. 
 * In afternoon I’m still feeling pretty rotated from the left side. 
 
-* [Home](/)
+* [Home](/blog)
 * [Background](/background.md)
 * *Week 1*
 * [Week 2](/week-2.md)

@@ -2,7 +2,7 @@
 title: Week 3
 ---
 
-* [Home](/)
+* [Home](/blog)
 * [Background](/background.md)
 * [Week 1](/week-1.md)
 * [Week 2](/week-2.md)
@@ -98,7 +98,7 @@ title: Week 3
 * Left side flare up. Jaw, neck, shoulder, face, head. The usual.
 * Clenched back of tongue on left side and pushed against roof of mouth. Alternated pushing gently and with force until I found a comfortable posture. The left side pain started going away.
 
-* [Home](/)
+* [Home](/blog)
 * [Background](/background.md)
 * [Week 1](/week-1.md)
 * [Week 2](/week-2.md)
