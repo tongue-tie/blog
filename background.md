@@ -9,7 +9,9 @@ title:  "Background and why I had surgery"
 * [Week 3](/week-3.md)
 * [Week 4](/week-4.md)
 
-I knew I had a tongue-tie (it was obvious, visually), but I was not aware how it affected my entire body. I have been told by my various therapists that I have an unusual level of body awareness. This is because I've been trying to figure out how to move and what will help me for pretty much my entire life.
+I never had speech or breathing issues, could stick my tongue out far, could touch the roof of my mouth with my tongue, and clean around all my teeth with my tongue quite easily. Nothing pointed to a problem. Still, I knew I had a tongue-tie since it was obvious, visually.
+
+But I was not aware how tongue-tie affected my entire body. I have been told by my various therapists that I have an unusual level of body awareness. This is because I've been trying to figure out how to move and what will help me for pretty much my entire life.
 
 # Baby
 
@@ -65,7 +67,7 @@ I called my ENT office, and miracle of miracles, there was a cancellation and I 
 
 The ENT gave me and exercise to do to help relax the jaw and advised seeing experts. Unfortuntately, I found that the exercises caused more strain and tension in my tongue and neck. I went down a rabbit hole of internet research, trying to find local professionals that could help me now that I knew I wasn't just having migraines for 20+ years, I had a jaw problem. But the jaw doesn't operate by itself, and I knew there was more to it.
 
-In August I stopped wearing my upper retainer because it was exacerbating the pain. I went to the dentist for a separate issue, but since I was there, I told them about what had happened recently and my general history, and I asked about what they recommended for my retainer and an evaulation for tongue-tie. The dentist I spoke to said to lift up my tongue, and she said it was normal and not a problem, and to go back to using a night guard.
+In August I stopped wearing my upper retainer because it was exacerbating the pain. I went to the dentist for a separate issue, but since I was there, I told them about what had happened recently and my general history, and I asked about what they recommended for my retainer and an evaulation for tongue-tie. The dentist I spoke to said to stick my tongue out, and she said it was normal and not a problem, and to go back to using a night guard.
 
 # September 2019: Improved tongue posture
 
@@ -77,7 +79,7 @@ My muscle tension (jaw, neck, upper chest, etc.) went down considerably. It coul
 
 I started speech therapy and physical therapy, and I scheduled an evaluation with an ENT for December.
 
-The speech therapist is also a certified orofacial myologist. In my evaluation she determined my swallowing pattern was incorrect, I had weak masseters, and I use the wrong muscles. And yes, I have a tongue-tie. Those are the highlights anyway. She also theorized that had my swallowing pattern and tongue position been correct as a baby and child, I may not have had all the ear issues I experienced. Impossible to know for sure, but it's certainly something to think about. I was familiar with the anatomy since I had studied it so much as a teenager, wanting to understand how it was all supposed to work and what was wrong with me. It also occurred to me that I was told that I cried a lot as a baby. Like a lot a lot. Maybe that was related too.
+The speech therapist is also a certified orofacial myologist. In my evaluation she determined my swallowing pattern was incorrect, I had weak masseters, and I use the wrong muscles. And yes, my tongue is tied. Those are the highlights anyway. She also theorized that had my swallowing pattern and tongue position been correct as a baby and child, I may not have had all the ear issues I experienced. Impossible to know for sure, but it's certainly something to think about. I was familiar with the anatomy since I had studied it so much as a teenager, wanting to understand how it was all supposed to work and what was wrong with me. It also occurred to me that I was told that I cried a lot as a baby. Like a lot a lot. Maybe that was related too.
 
 I told her her about my full-body approach to what was going on, that the visual disturbance scared the hell out of me, and that I was also seeing an ENT and physical therapist, and that I see a massage therapist regularly. She agreed with my approach, and that my overall instability certainly contributes to my jaw issues and pain. I started speech therapy and immediately started feeling better. Immediately. I also kept notes for the first 2-3 months of speech therapy and might add that later.
 

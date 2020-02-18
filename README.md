@@ -8,6 +8,8 @@ I had a tongue-tie, and now I don't have a tongue-tie. I paid a nice man to remo
 
 Basically, the [lingual frenulum](https://en.wikipedia.org/wiki/Frenulum_of_tongue) is a bit of tissue that connects your tongue to the floor of your mouth. A short and/or restrictive lingual frenulum is called [ankyloglossia](https://en.wikipedia.org/wiki/Ankyloglossia), also known as _tongue-tie_. The surgery I had was a [lingual frenectomy](https://en.wikipedia.org/wiki/Frenectomy).
 
+Tongue-tie is also written as tongue tie, and frenectomy is also called frenotomy. There are also frenulotomy and frenulectomy. You can do your own research there.
+
 ## Posts
 
 There's a single post about my background and one for each week post-surgery. I took my notes in the moment as things happened, snippets of thoughts.
