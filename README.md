@@ -10,7 +10,7 @@ Basically, the [lingual frenulum](https://en.wikipedia.org/wiki/Frenulum_of_tong
 
 ## Posts
 
-There's a single (very long) post about my background, and then a post for each week I took notes post-surgery. I'll keep editing to make it easier to read, and until I care about dealing with Jekyll and adding some navigation, this will be super basic.
+There's a single post about my background and one for each week post-surgery. I took my notes in the moment as things happened, snippets of thoughts.
 
 * [Background and why I had surgery](/background.md)
 * [Week 1](/week-1.md)
