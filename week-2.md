@@ -2,7 +2,14 @@
 title: Week 2
 ---
 
-## Thursday 1/30 — 8th day after
+* [Home](/readme.md)
+* [Background](/background.md)
+* [Week 1](/week-1.md)
+* *Week 2*
+* [Week 3](/week-3.md)
+* [Week 4](/week-4.md)
+
+# Thursday 1/30 — 8th day after
 
 **Highlight:** Noticed lack of facial tension.
 
@@ -22,7 +29,7 @@ title: Week 2
 * The spot on the floor of my mouth that was so painful a few days ago is now fine. Previously the floor of the mouth was very tight. Now there is no tension or pain at all.
 * Yawning is more and more comfortable.
 
-## Friday 1/31 — 9th day after
+# Friday 1/31 — 9th day after
 
 **Highlight:** Feeling taller, with extended posture through neck.
 
@@ -33,7 +40,7 @@ title: Week 2
 * Discovered I can now feel the middle of my tongue, where the wound is, with the tip. It feels new and nice to be able to do that. 
 * Right side pain subsided around midnight. Stretched out when I got home and noticed I felt more symmetrical. 
 
-## Saturday 2/1 — 10th day after
+# Saturday 2/1 — 10th day after
 
 **Highlights:** Similar muscle release and cracking sensation as on 1/27. Not as major, but the same sensations. Also, I can no longer clench my jaw — I can’t perform the action. Started purposely extending neck instead of letting neck/jaw/shoulder go into pattern of contraction.
 
@@ -60,7 +67,7 @@ title: Week 2
 * **I can’t even clench my jaw anymore.** If I try, there is no pressure in my jaw. Instead, I feel it in my neck / base of tongue and some tightness at the back of my head at the base of the occipital bone.
 * When reaching over with right leg forward, I apply pressure from glutes to stand up. For my entire life before now, instead my right foot and ankle would tense up and drive the movement.
 
-## Sunday 2/2 — 11th day after
+# Sunday 2/2 — 11th day after
 
 * Woke up flat on my back. Slept well.
    * Turned on my right side and lengthened my neck. I could feel a stretch down my right side and into my hip and glutes.
@@ -84,7 +91,7 @@ title: Week 2
 * Noticed I was holding my breath. Let it out and relaxed, and then felt ping-y releases in right shoulder blade and a stretch up from there. 
 * Right side is quite flared up. Right back of hip/pelvis (low back? glutes?) aches deeply. Going to be gentle tomorrow. I don’t want to push it and hurt myself. 
 
-## Monday 2/3 — 12th day after
+# Monday 2/3 — 12th day after
 
 * Woke on my back but turned to sides to sleep longer. Got up kinda scrunched up in neck and chest. The freedom of movement in pelvis/hips is great though. 
 * Took a walk at lunch and it loosened up the tension I’ve felt all day on my right side. I continue to feel stronger through my right leg. Engaging muscles and posture I couldn’t before. Neck feels long and I stand taller and straighter. 
@@ -101,7 +108,7 @@ title: Week 2
    * Rolled out right shoulder (trapezius? rhomboid?) on a trigger point ball afterward.
 * Appetite still diminished.
 
-## Tuesday 2/4 — 13th day after
+# Tuesday 2/4 — 13th day after
 
 * Woke up with right side flared up/strained. Tried lying on neck roll kind of pillow, which helped for a bit. Likely just need to go for a walk and loosen up.
 * When standing or taking a step to bear weight on my right leg (not walking, just shifting) I find that I now naturally push through my heel instead of having my mid foot contract and trying to balance on that, with the ankle and lower leg also contracting for stability. Now I feel balanced and solid from my heel through my hip and glutes. 
@@ -113,7 +120,7 @@ title: Week 2
    * Everything is more stable, symmetrical. Shoulders and arms are regaining strength quickly, which is taking pressure off the shoulder and neck.
 * Leaning back in armchair, I interlace my fingers behind my head and press back with my head.  The stretch feels good and has a bit of the “cracking” sensation. Also pushing on my head like that when it is hung forward gives an incredible stretch in upper back and neck. 
 
-## Wednesday 2/5 — 14th day after
+# Wednesday 2/5 — 14th day after
 
 **Highlights:** Feel more balanced and coordinated. Major muscle position change in tongue/jaw.
 
@@ -130,12 +137,9 @@ title: Week 2
 * Right side of my neck under jaw feels sore and tight. 
 * Right shoulder blade feels open instead of constricted.
 
-
-**Nav**
-
 * [Home](/readme.md)
 * [Background](/background.md)
 * [Week 1](/week-1.md)
-* Week 2
+* *Week 2*
 * [Week 3](/week-3.md)
 * [Week 4](/week-4.md)

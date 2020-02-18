@@ -2,7 +2,14 @@
 title: Week 3
 ---
 
-## Thursday 2/6 — 15th day after
+* [Home](/readme.md)
+* [Background](/background.md)
+* [Week 1](/week-1.md)
+* [Week 2](/week-2.md)
+* *Week 3*
+* [Week 4](/week-4.md)
+
+# Thursday 2/6 — 15th day after
 
 **Highlight:** Major release in left hip.
 
@@ -36,7 +43,7 @@ title: Week 3
 * Lip, mouth, facial tension are practically gone.
 * Yawning is very comfortable for jaw and tongue now. Before, it would get sore at the tie, and the stretch was not as satisfying as it is now through throat and neck and jaw.
 
-## Friday 2/7 — 16th day after
+# Friday 2/7 — 16th day after
 
 * Not a lot to report so far (2 p.m.). Went for a mile+ walk at lunch.
    * Felt quite symmetrical and like my legs were tracking straight ahead, able to engage glute medius like I haven’t before. 
@@ -44,7 +51,7 @@ title: Week 3
    * Much more freedom of movement in back left hip. 
 * Very mild strain in back right neck and shoulder but not bothering me.
 
-## Saturday 2/8 — 17th day after
+# Saturday 2/8 — 17th day after
 
 * Getting out of bed, I’m amazed and delighted by how level, stable, and light I feel. 
 * Jeans are fitting differently, not being pulled because of the rotation. 
@@ -56,7 +63,7 @@ title: Week 3
     * 3-legged dog: Stronger shoulders and arms, more open side and hip stretches.
 * Still not much appetite.
 
-## Sunday 2/9 — 18th day after
+# Sunday 2/9 — 18th day after
 
 **Highlight:** I realized I always feel physically relaxed now.
 
@@ -73,7 +80,7 @@ title: Week 3
     * I’ll stop adding yoga to this journal in general. The important parts are that I regained enough strength in upper body that my neck is no longer in compensatory pattern, and that the openness in right foot and hips has been significant.
 * Today I told a friend, **“I truly think my days of horrible pain and tension are behind me.”** This would not have been possible without speech therapy and frenectomy. With my physical and massage therapies, and my yoga practice, I’m feeling very good.
 
-## Monday 2/10 — 19th day after
+# Monday 2/10 — 19th day after
 
 * Felt a pop in right arch when taking a step. No pain. Probably nothing, but I'm noting everything.
 * I continue to be amazed at how symmetrical I’m feeling.
@@ -82,21 +89,18 @@ title: Week 3
    * Open back of left hip.
    * The way I move on my feet and legs feels light and coordinated and comfortable.
 
-## Tuesday 2/11 — 20th day after
+# Tuesday 2/11 — 20th day after
 
-* PT was glad to see my balance and symmetry improvements. 
+* Physical therapist was glad to see my balance and symmetry improvements. 
 
-## Wednesday 2/12 — 21st day after
+# Wednesday 2/12 — 21st day after
 
 * Left side flare up. Jaw, neck, shoulder, face, head. The usual.
 * Clenched back of tongue on left side and pushed against roof of mouth. Alternated pushing gently and with force until I found a comfortable posture. The left side pain started going away.
-
-
-**Nav**
 
 * [Home](/readme.md)
 * [Background](/background.md)
 * [Week 1](/week-1.md)
 * [Week 2](/week-2.md)
-* Week 3
+* *Week 3*
 * [Week 4](/week-4.md)

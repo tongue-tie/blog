@@ -1,11 +1,19 @@
 ---
 title: Week 1
 ---
-## Wednesday 1/22 — Day of surgery 
 
-The first thing my ENT said after he completed the procedure is that my tongue and jaw now work independently. Before the snip, when I would move my tongue, my jaw would also tense and move up. Noted and interesting, but I couldn't feel my tongue at that point, so I just took his word for it.
+* [Home](/readme.md)
+* [Background](/background.md)
+* *Week 1*
+* [Week 2](/week-2.md)
+* [Week 3](/week-3.md)
+* [Week 4](/week-4.md)
 
-### Leaving the appointment
+# Wednesday 1/22 — Day of surgery 
+
+My ENT gave me a topical and local anesthetics, and he used laser and dissolvable sutures. The first thing he said after he completed the procedure is that my tongue and jaw now work independently. Before, whenever I would move my tongue, my jaw would also tense and move up.
+
+## Leaving the appointment
 
 My appointment was at 1:30 pm, and I was driving back home by around 2 p.m.
 
@@ -18,7 +26,7 @@ My appointment was at 1:30 pm, and I was driving back home by around 2 p.m.
 * I’m starting to feel my right jaw joint kinda “melt.”
 * **Turning my head to the right to check my blind spot when driving, I can now effortlessly see all the way out the back window.**
 
-### Back at home
+## Back at home
 
 The major thing I discovered is that my right foot no longer feels bound. This is a new thing for me. My entire life, I had never been able to stretch it out, and my right ankle flexibility was also limited.
 
@@ -52,11 +60,11 @@ The major thing I discovered is that my right foot no longer feels bound. This i
 * Behind right ear is very tender. Rubbing it a lot.
 * Right ear and jaw are starting to feel sore.
 
-### Visual observations
+## Visual observations
 
 * Lost muscle tone under chin after the release. Temporary since this is a new change?
 
-## Thursday 1/23 — 1st day after
+# Thursday 1/23 — 1st day after
 
 **Highlights:** Diminished dowager’s hump and forward head posture, better balance on right foot, deeper yoga stretches, hips starting to feel level.
 
@@ -97,7 +105,7 @@ The major thing I discovered is that my right foot no longer feels bound. This i
 * 9:15 p.m. took the rest of the pill.
 * Still tight on right side.
 
-## Friday 1/24 — 2nd day after
+# Friday 1/24 — 2nd day after
 
 **Highlights:** Seated posture feels level, noticed how low appetite has been, right leg coordination is better.
 
@@ -126,7 +134,7 @@ The major thing I discovered is that my right foot no longer feels bound. This i
 * Both legs track forward when walking. 
 * When eating, I feel full very quickly.
 
-## Saturday 1/25 — 3rd day after
+# Saturday 1/25 — 3rd day after
 
 * Wound stung a little after I looked at it. Took ibuprofen, and it felt sore when swallowing. 
 * Speech is affected by the sore tongue. 
@@ -137,7 +145,7 @@ The major thing I discovered is that my right foot no longer feels bound. This i
 * Right jaw, face, teeth, back of neck are sore. Right scalp is tender. 
 * Back of tongue on right side feels like I bit it. 
 
-## Sunday 1/26 — 4th day after
+# Sunday 1/26 — 4th day after
 
 **Highlight:** Massage therapist noticed increased facial symmetry.
 
@@ -148,7 +156,7 @@ The major thing I discovered is that my right foot no longer feels bound. This i
 * Mouth feels better after stretching the middle of my tongue.
 * Did more tongue stretching, and mouth feels pretty normal. Most tension is released, as far as I can tell.
 
-## Monday 1/27 — 5th day after
+# Monday 1/27 — 5th day after
 
 **Highlight:** Major muscle release in upper body — from scalp down. Wild. WILD.
 
@@ -176,7 +184,7 @@ The major thing I discovered is that my right foot no longer feels bound. This i
 * Feeling the back of my neck and head, it’s all relaxed, not tight like usual.
 * **Yawning no longer hurts under my tongue.** The tie used to be stretched and get sore sometimes.
 
-## Tuesday 1/28 — 6th day after
+# Tuesday 1/28 — 6th day after
 
 * Woke before six feeling totally rested. Woke up on back. Tongue is on alveolar ridge and jaw is slack. **My posture feels tall and upright. No forward neck posture, and ZERO tension in my head, neck, and shoulders. I’ve never woken up like this before.** Made coffee (haven’t in months), texted a friend. Feeling calm and relaxed. 
 * Sitting in my armchair this morning, I feel an ache in my left pec, from release. It’s not tense. I can tell when I feel it with my hand too.
@@ -204,7 +212,7 @@ The major thing I discovered is that my right foot no longer feels bound. This i
 * Zero tension or tenderness at occipital bone or neck. Right masseter is tender to touch.
 * Lying on right side, **I no longer feel (and internally hear) the grinding in the back of my left side of my pelvis. It always felt restricted, and in my mind, it was like tissue that wouldn’t let go. That’s resolved.**
 
-## Wednesday 1/29 — 7th day after
+# Wednesday 1/29 — 7th day after
 
 * Woke up flat on my back again. Got up easily a little before six.
 * Tested the left side of hip while lying on my right side, and the “grinding” is still gone.
@@ -214,12 +222,9 @@ The major thing I discovered is that my right foot no longer feels bound. This i
 * Walking feels crooked. Left hip rotated and hiked, along with left side in general being flared up. The walking may seem more apparent due to wearing Vans. I’m usually barefoot or in barefoot style shoes. Not sure. 
 * In afternoon I’m still feeling pretty rotated from the left side. 
 
-
-**Nav**
-
 * [Home](/readme.md)
 * [Background](/background.md)
-* Week 1
+* *Week 1*
 * [Week 2](/week-2.md)
 * [Week 3](/week-3.md)
 * [Week 4](/week-4.md)
