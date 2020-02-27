@@ -8,6 +8,8 @@ title: Week 2
 * *Week 2*
 * [Week 3](/week-3.md)
 * [Week 4](/week-4.md)
+* [Week 5](/week-5.md)
+* [Week 6](/week-6.md)
 
 # Thursday 1/30 — 8th day after
 
@@ -143,3 +145,5 @@ title: Week 2
 * *Week 2*
 * [Week 3](/week-3.md)
 * [Week 4](/week-4.md)
+* [Week 5](/week-5.md)
+* [Week 6](/week-6.md)

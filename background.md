@@ -8,6 +8,8 @@ title:  "Background and why I had surgery"
 * [Week 2](/week-2.md)
 * [Week 3](/week-3.md)
 * [Week 4](/week-4.md)
+* [Week 5](/week-5.md)
+* [Week 6](/week-6.md)
 
 I never had speech or breathing issues, could stick my tongue out far, could touch the roof of my mouth with my tongue, and clean around all my teeth with my tongue quite easily. Nothing pointed to a problem. Still, I knew I had a tongue-tie since it was obvious, visually.
 
@@ -75,7 +77,7 @@ In August I stopped wearing my upper retainer because it was exacerbating the pa
 
 I found that my tongue was now going to the top of my mouth instead of resting at the bottom. In the info provided by my ENT, I realized that my tongue wasn't usually in that position and I couldn't remember the last time it had been, so I made the effort to try and restore that position. I also realized that the night guard and Hawley retainer made it impossible to keep it at the roof of my mouth.
 
-My muscle tension (jaw, neck, upper chest, etc.) went down considerably. It could have been coincidental or from stretching or vitamin and mineral supplements I started due to deficiencies, but the most likely contender was that iy was due to improved tongue posture and having room for my tongue without the night guard or retainer in.
+My muscle tension (jaw, neck, upper chest, etc.) went down considerably. It could have been coincidental or from stretching or vitamin and mineral supplements I started due to deficiencies, but the most likely contender was that it was due to improved tongue posture and having room for my tongue without the night guard or retainer in.
 
 # October 2019: Speech and physical therapies
 
@@ -99,3 +101,5 @@ At long last, I went to see the ENT. Again, visually the tongie-tie is obvious. 
 * [Week 2](/week-2.md)
 * [Week 3](/week-3.md)
 * [Week 4](/week-4.md)
+* [Week 5](/week-5.md)
+* [Week 6](/week-6.md)

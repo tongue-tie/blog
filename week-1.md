@@ -8,6 +8,8 @@ title: Week 1
 * [Week 2](/week-2.md)
 * [Week 3](/week-3.md)
 * [Week 4](/week-4.md)
+* [Week 5](/week-5.md)
+* [Week 6](/week-6.md)
 
 # Wednesday 1/22 — Day of surgery 
 
@@ -228,3 +230,5 @@ The major thing I discovered is that my right foot no longer feels bound. This i
 * [Week 2](/week-2.md)
 * [Week 3](/week-3.md)
 * [Week 4](/week-4.md)
+* [Week 5](/week-5.md)
+* [Week 6](/week-6.md)
