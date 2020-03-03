@@ -56,7 +56,7 @@ The major thing I discovered is that my right foot no longer feels bound. This i
    * Triangle:
       * Right foot forward: Foot is relaxed. Previously it was slightly painful. The foot was constantly tensed. Now the foot and ankle are totally relaxed. The stretch is primarily in my upper right leg.
    * 3-legged dog:
-      * Right leg on floor: Foot and ankle are relaxed and stable. VERY deep stretch in right foot and calf. Same as with warrior 3, previously the foot wand ankle were very tensed.
+      * Right leg on floor: Foot and ankle are relaxed and stable. VERY deep stretch in right foot and calf. Same as with warrior 3, previously the foot and ankle were very tensed.
    * Neck circles: No jaw and neck strain.
 * **Just standing still, I feel far more level and stable. It seems like my hips are less rotated and tilted.**
 * Behind right ear is very tender. Rubbing it a lot.

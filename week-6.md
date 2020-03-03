@@ -17,7 +17,7 @@ title: Week 6
 * During yoga and physical therapy, I feel much more open in left, back side of ribs, from above waist to under shoulder blade. 
 * Have been catching myself in poor posture this week, which I suspect is because my routine has been messed with. PT and yoga seem to keep that at bay. Afterward I tend to maintain a lengthened neck posture, with shoulders down, and good extension between right heel and hip, which balances me out.
 
-# Sunday 3/1 - 39rd day after
+# Sunday 3/1 - 39th day after
 
 * I suspected I had a cold. Today is confirmed. Ears and nose are affected, and neck is sore. It's my first cold in at least a year, so I guess I was due.
 * I'm not sure if I stretched my neck too much on a too-firm pillow, or if this is from being sick and going back to previous posture, but I have severe pain on my right side and lots of tension at back of neck. The pain is worse than ever this weekend, like my whole right side seized up.
