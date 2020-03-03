@@ -12,7 +12,7 @@ Tongue-tie is also written as tongue tie, and frenectomy is also called frenotom
 
 ## Posts
 
-There's a single post about my background and one for each week post-surgery. I took my notes in the moment as things happened, snippets of thoughts. Most notes are in the first three weeks.
+There's a single post about my background and one for each week post-surgery. I took my notes in the moment as things happened, snippets of thoughts. Most notes about the post-surgery effects are in the first three weeks, then it's primarily about my general physical progress as I adjust to my new abilities.
 
 * [Background and why I had surgery](/background.md)
 * [Week 1](/week-1.md)

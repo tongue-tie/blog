@@ -15,6 +15,10 @@ I never had speech or breathing issues, could stick my tongue out far, could tou
 
 But I was not aware how tongue-tie affected my entire body. I have been told by my various therapists that I have an unusual level of body awareness. This is because I've been trying to figure out how to move and what will help me for pretty much my entire life.
 
+# Note!
+
+Everything else on this page reads like I'm a total mess. Yes, I had ear surgeries and headaches and always felt crooked, but I wasn't moping around thinking, "Woe is me," and avoiding things. In elementary and high school I played soccer and softball (poorly, but I did it) and trained with the track team, I row (indoor, with an ergometer) off an on, I started running for enjoyment and health as an adult. I've just been living my life and trying to feel better.
+
 # Baby
 
 I was born with [hip dysplasia](https://en.wikipedia.org/wiki/Hip_dysplasia) and with my right leg turned in and right foot turned under. There's a pretty great photo of me learning to walk, taking steps with the _top_ of my right foot under me. I had braces as treatment, and the turned-in and -under leg and foot resolved on their own.
