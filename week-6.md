@@ -2,6 +2,15 @@
 title: Week 6
 ---
 
+* [Home](/blog)
+* [Background and why I had surgery](/background.md)
+* [Week 1](/week-1.md)
+* [Week 2](/week-2.md)
+* [Week 3](/week-3.md)
+* [Week 4](/week-4.md)
+* [Week 5](/week-5.md)
+* *Week 6*
+
 # Thursday 2/27 - 36th day after
 
 * During physical therapy routine I was able to easily hold side plank through my left shoulder. Previously it was very weak and hard to find supportive alignment. Now it feels comfortable and easy to get into position. Was also able to easily engage lower abs. That’s always been hard to do.
@@ -21,6 +30,7 @@ title: Week 6
 
 I'm frustrated by the constant back and forth with the pain. When will my body balance out? I imagine I will always have these one-sides pain flareups, but I need to go back to the days of longer periods of zero pain. I'm not even done with speech therapy though, and I have not been cleared by my PT to start running again. I really want to run and be able to do some aggressive exercise. I'm patient but frustrated.
 
+* [Home](/blog)
 * [Background and why I had surgery](/background.md)
 * [Week 1](/week-1.md)
 * [Week 2](/week-2.md)

@@ -15,7 +15,7 @@ Lots of flareups back and forth this week. I’m guessing partially from plane t
 * Physical therapist said there is no obversable difference in my left and right sides when I do a particular part of my routine. Major progress.
 * Speech therapist said we're getting close to the end of therapy since I'm hitting my goals and new patterns are habituated.
 
-
+* [Home](/blog)
 * [Background and why I had surgery](/background.md)
 * [Week 1](/week-1.md)
 * [Week 2](/week-2.md)
