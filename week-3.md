@@ -1,5 +1,5 @@
 ---
-title: Week 3
+title: Week 3: 2/5 - 2/11/2020
 ---
 
 * [Home](/blog)
@@ -10,6 +10,25 @@ title: Week 3
 * [Week 4](/week-4.md)
 * [Week 5](/week-5.md)
 * [Week 6](/week-6.md)
+* [Week 7](/week-7.md)
+* [Week 8](/week-8.md)
+
+# Wednesday 2/5 — 14th day after
+
+**Highlights:** Feel more balanced and coordinated. Major muscle position change in tongue/jaw.
+
+* Woke on right side. When I got up my neck long, strong, extended. I’ll continue to do those deep stretches before bed and see how it goes.
+* I caught myself a couple times with my neck constricted on the right side, so I reorganized myself from the heel up, and it took me out of the neck strain.
+* I felt no tenderness in masseters when washing face.
+* I feel more balanced and organized in general. My legs feel more balanced and coordinated.
+   * When standing, now that I can bear weight on my right leg more easily and balance, I’m making the effort to let my left hip/waist relax more, and they do. It’s slight but it’s there.
+* Did a short sprint in the office in concrete and soft shoes and maybe strained my right foot by using previous usage pattern. We’ll see. 
+* On the bus ride home, I was feeling around with my tongue position and jaw and intuitively pushed against the roof of my mouth with my tongue (at the alveolar ridge, most pressure on the right side), and **I felt a clunk/thunk/unkinking in the back of my head behind my right ear, where there is usually so much strain, and the back of my tongue (on the right side, where I get the sensation like I bit it). It felt like the muscle just under and forward of my right jaw joint also “clunked”/slid into place. It felt like the parts of my head clicked into place.** It feels like an echo of tension behind the right ear and down my neck, like it’s reacting from the lack of tension there. It also feels like a bit of deja vu, like I’ve had the clunk/thunk feeling before, but it went right back to being tense and didn’t know where my jaw and tongue were supposed go. It feels like previously I jutted my jaw forward slightly, and now it’s back and up.
+* Skipping yoga tonight, just taking it easy with physical stuff.
+* Also not applying a lot of pressure with my tongue on the roof of my mouth now that it’s in this position, just trying to relax.
+* Getting a headache at the front of my head, which is rare.
+* Right side of my neck under jaw feels sore and tight. 
+* Right shoulder blade feels open instead of constricted.
 
 # Thursday 2/6 — 15th day after
 
@@ -95,11 +114,6 @@ title: Week 3
 
 * Physical therapist was glad to see my balance and symmetry improvements. 
 
-# Wednesday 2/12 — 21st day after
-
-* Left side flare up. Jaw, neck, shoulder, face, head. The usual.
-* Clenched back of tongue on left side and pushed against roof of mouth. Alternated pushing gently and with force until I found a comfortable posture. The left side pain started going away.
-
 * [Home](/blog)
 * [Background](/background.md)
 * [Week 1](/week-1.md)
@@ -108,3 +122,5 @@ title: Week 3
 * [Week 4](/week-4.md)
 * [Week 5](/week-5.md)
 * [Week 6](/week-6.md)
+* [Week 7](/week-7.md)
+* [Week 8](/week-8.md)

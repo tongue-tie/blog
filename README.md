@@ -21,3 +21,5 @@ There's a single post about my background and one for each week post-surgery. I 
 * [Week 4](/week-4.md)
 * [Week 5](/week-5.md)
 * [Week 6](/week-6.md)
+* [Week 7](/week-7.md)
+* [Week 8](/week-8.md)

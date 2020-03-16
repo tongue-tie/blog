@@ -10,6 +10,8 @@ title:  "Background and why I had surgery"
 * [Week 4](/week-4.md)
 * [Week 5](/week-5.md)
 * [Week 6](/week-6.md)
+* [Week 7](/week-7.md)
+* [Week 8](/week-8.md)
 
 I never had speech or breathing issues, could stick my tongue out far, could touch the roof of my mouth with my tongue, and clean around all my teeth with my tongue quite easily. Nothing pointed to a problem. Still, I knew I had a tongue-tie since it was obvious, visually.
 
@@ -107,3 +109,5 @@ At long last, I went to see the ENT. Again, visually the tongie-tie is obvious. 
 * [Week 4](/week-4.md)
 * [Week 5](/week-5.md)
 * [Week 6](/week-6.md)
+* [Week 7](/week-7.md)
+* [Week 8](/week-8.md)

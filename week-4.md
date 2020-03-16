@@ -1,6 +1,11 @@
 ---
-title: Week 4
+title: Week 4: 2/12 - 2/18/2020
 ---
+
+# Wednesday 2/12 — 21st day after
+
+* Left side flare up. Jaw, neck, shoulder, face, head. The usual.
+* Clenched back of tongue on left side and pushed against roof of mouth. Alternated pushing gently and with force until I found a comfortable posture. The left side pain started going away.
 
 # Sunday 2/16 - 25th day after
 
@@ -18,3 +23,5 @@ I saw my massage therapist today. The last time I saw her was the 4th day after 
 * *Week 4*
 * [Week 5](/week-5.md)
 * [Week 6](/week-6.md)
+* [Week 7](/week-7.md)
+* [Week 8](/week-8.md)

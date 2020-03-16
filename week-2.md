@@ -1,5 +1,5 @@
 ---
-title: Week 2
+title: Week 2: 1/29 - 2/4/2020
 ---
 
 * [Home](/blog)
@@ -10,6 +10,18 @@ title: Week 2
 * [Week 4](/week-4.md)
 * [Week 5](/week-5.md)
 * [Week 6](/week-6.md)
+* [Week 7](/week-7.md)
+* [Week 8](/week-8.md)
+
+# Wednesday 1/29 — 7th day after
+
+* Woke up flat on my back again. Got up easily a little before six.
+* Tested the left side of hip while lying on my right side, and the “grinding” is still gone.
+* Left side felt flared up while still in bed. It definitely feels tight when going through morning yoga/stretch routine, on the left side at jaw, ear, down neck in front, side, and back.
+* **Right side (foot, leg, hip) feel organized and stable. No more Trendelenburg sign. I knew I had built the hip strength, but the limitation of movement is gone, and the foot can spread and ankle can relax. I don’t feel like I’m going to fall over or twist to the right.**
+    * Given how strong and stable the right side is (at last), it is highlighting the rotation and tight spots on the left. I’ve come a long way with increasing flexibility and strength, and I can now even better see the coordination, strength, and flexibility needs.
+* Walking feels crooked. Left hip rotated and hiked, along with left side in general being flared up. The walking may seem more apparent due to wearing Vans. I’m usually barefoot or in barefoot style shoes. Not sure. 
+* In afternoon I’m still feeling pretty rotated from the left side. 
 
 # Thursday 1/30 — 8th day after
 
@@ -122,23 +134,6 @@ title: Week 2
    * Everything is more stable, symmetrical. Shoulders and arms are regaining strength quickly, which is taking pressure off the shoulder and neck.
 * Leaning back in armchair, I interlace my fingers behind my head and press back with my head.  The stretch feels good and has a bit of the “cracking” sensation. Also pushing on my head like that when it is hung forward gives an incredible stretch in upper back and neck. 
 
-# Wednesday 2/5 — 14th day after
-
-**Highlights:** Feel more balanced and coordinated. Major muscle position change in tongue/jaw.
-
-* Woke on right side. When I got up my neck long, strong, extended. I’ll continue to do those deep stretches before bed and see how it goes.
-* I caught myself a couple times with my neck constricted on the right side, so I reorganized myself from the heel up, and it took me out of the neck strain.
-* I felt no tenderness in masseters when washing face.
-* I feel more balanced and organized in general. My legs feel more balanced and coordinated.
-   * When standing, now that I can bear weight on my right leg more easily and balance, I’m making the effort to let my left hip/waist relax more, and they do. It’s slight but it’s there.
-* Did a short sprint in the office in concrete and soft shoes and maybe strained my right foot by using previous usage pattern. We’ll see. 
-* On the bus ride home, I was feeling around with my tongue position and jaw and intuitively pushed against the roof of my mouth with my tongue (at the alveolar ridge, most pressure on the right side), and **I felt a clunk/thunk/unkinking in the back of my head behind my right ear, where there is usually so much strain, and the back of my tongue (on the right side, where I get the sensation like I bit it). It felt like the muscle just under and forward of my right jaw joint also “clunked”/slid into place. It felt like the parts of my head clicked into place.** It feels like an echo of tension behind the right ear and down my neck, like it’s reacting from the lack of tension there. It also feels like a bit of deja vu, like I’ve had the clunk/thunk feeling before, but it went right back to being tense and didn’t know where my jaw and tongue were supposed go. It feels like previously I jutted my jaw forward slightly, and now it’s back and up.
-* Skipping yoga tonight, just taking it easy with physical stuff.
-* Also not applying a lot of pressure with my tongue on the roof of my mouth now that it’s in this position, just trying to relax.
-* Getting a headache at the front of my head, which is rare.
-* Right side of my neck under jaw feels sore and tight. 
-* Right shoulder blade feels open instead of constricted.
-
 * [Home](/blog)
 * [Background](/background.md)
 * [Week 1](/week-1.md)
@@ -147,3 +142,5 @@ title: Week 2
 * [Week 4](/week-4.md)
 * [Week 5](/week-5.md)
 * [Week 6](/week-6.md)
+* [Week 7](/week-7.md)
+* [Week 8](/week-8.md)

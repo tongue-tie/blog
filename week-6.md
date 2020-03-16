@@ -1,5 +1,5 @@
 ---
-title: Week 6
+title: Week 6: 2/26 - 3/3/2020
 ---
 
 * [Home](/blog)
@@ -10,6 +10,8 @@ title: Week 6
 * [Week 4](/week-4.md)
 * [Week 5](/week-5.md)
 * *Week 6*
+* [Week 7](/week-7.md)
+* [Week 8](/week-8.md)
 
 # Thursday 2/27 - 36th day after
 
@@ -38,3 +40,5 @@ I'm frustrated by the constant back and forth with the pain. When will my body b
 * [Week 4](/week-4.md)
 * [Week 5](/week-5.md)
 * *Week 6*
+* [Week 7](/week-7.md)
+* [Week 8](/week-8.md)

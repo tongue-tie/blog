@@ -1,5 +1,5 @@
 ---
-title: Week 1
+title: Week 1: 1/22 - 1/28/2020
 ---
 
 * [Home](/blog)
@@ -10,6 +10,8 @@ title: Week 1
 * [Week 4](/week-4.md)
 * [Week 5](/week-5.md)
 * [Week 6](/week-6.md)
+* [Week 7](/week-7.md)
+* [Week 8](/week-8.md)
 
 # Wednesday 1/22 — Day of surgery 
 
@@ -214,16 +216,6 @@ The major thing I discovered is that my right foot no longer feels bound. This i
 * Zero tension or tenderness at occipital bone or neck. Right masseter is tender to touch.
 * Lying on right side, **I no longer feel (and internally hear) the grinding in the back of my left side of my pelvis. It always felt restricted, and in my mind, it was like tissue that wouldn’t let go. That’s resolved.**
 
-# Wednesday 1/29 — 7th day after
-
-* Woke up flat on my back again. Got up easily a little before six.
-* Tested the left side of hip while lying on my right side, and the “grinding” is still gone.
-* Left side felt flared up while still in bed. It definitely feels tight when going through morning yoga/stretch routine, on the left side at jaw, ear, down neck in front, side, and back.
-* **Right side (foot, leg, hip) feel organized and stable. No more Trendelenburg sign. I knew I had built the hip strength, but the limitation of movement is gone, and the foot can spread and ankle can relax. I don’t feel like I’m going to fall over or twist to the right.**
-    * Given how strong and stable the right side is (at last), it is highlighting the rotation and tight spots on the left. I’ve come a long way with increasing flexibility and strength, and I can now even better see the coordination, strength, and flexibility needs.
-* Walking feels crooked. Left hip rotated and hiked, along with left side in general being flared up. The walking may seem more apparent due to wearing Vans. I’m usually barefoot or in barefoot style shoes. Not sure. 
-* In afternoon I’m still feeling pretty rotated from the left side. 
-
 * [Home](/blog)
 * [Background](/background.md)
 * *Week 1*
@@ -232,3 +224,5 @@ The major thing I discovered is that my right foot no longer feels bound. This i
 * [Week 4](/week-4.md)
 * [Week 5](/week-5.md)
 * [Week 6](/week-6.md)
+* [Week 7](/week-7.md)
+* [Week 8](/week-8.md)

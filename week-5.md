@@ -1,5 +1,5 @@
 ---
-title: Week 5
+title: Week 5: 2/19 - 2/25/2020
 ---
 
 Lots of flareups back and forth this week. I’m guessing partially from plane travel and not sleeping in my own bed.
@@ -23,3 +23,5 @@ Lots of flareups back and forth this week. I’m guessing partially from plane t
 * [Week 4](/week-4.md)
 * *Week 5*
 * [Week 6](/week-6.md)
+* [Week 7](/week-7.md)
+* [Week 8](/week-8.md)
